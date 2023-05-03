@@ -12,6 +12,8 @@ include("config/config.php")
     <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
     <script type="text/javascript" src ="js/bootstrap.bundle.min.js"></script>
     <script type="text/javascript" src ="js/bootstrap.min.js"></script>
+    <script type="text/javascript" src ="js/jquery.min.js"></script>
+
 </head>
 <body>
     <h3 class="text-center text-light bg-info p-2">Advanced Product Filter </h3>
@@ -157,6 +159,7 @@ include("config/config.php")
             </div>
           </div>
         </div>
-    </div>    
+    </div> 
+    <script type ="text/javascript" src="js/script.js"></script>   
 </body>
 </html>
